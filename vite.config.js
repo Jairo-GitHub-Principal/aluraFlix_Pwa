@@ -4,6 +4,8 @@ import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa';
 
 export default defineConfig({
+  base: '/aluraFlix_Pwa/',  // Base para subdiretório do GitHub Pages
+
   plugins: [
     react(),
     VitePWA({
@@ -15,7 +17,8 @@ export default defineConfig({
         short_name: 'PWA',
         description: 'Um Progressive Web App feito com React e Vite',
         theme_color: '#ffffff',
-        start_url: '/', // Página inicial do PWA
+        start_url: '/aluraFlix_Pwa', // Página inicial do PWa para teste na hospedagem do  gitHub
+        // start_url: '/', // Página inicial do PWA para ambiente de desenvolvimento
         display: 'standalone', // Modo de exibição (pode ser 'fullscreen', 'standalone', etc.)
         icons: [
           {
