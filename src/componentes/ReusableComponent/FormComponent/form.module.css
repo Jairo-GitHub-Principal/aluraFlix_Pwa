@@ -1,0 +1,339 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&family=Anton&family=Archivo+Black&family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Playwrite+AU+VIC+Guides&family=Playwrite+CO+Guides&family=Press+Start+2P&family=Sixtyfour:BLED,SCAN@0..100,-24&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+.formContainer{
+    display: flex;
+    box-sizing: border-box;
+    border:none;
+    position: relative;
+    top:0px;
+    left:0px;
+    width: 100%;
+    overflow: auto;
+    border-radius: 15px 15px 25px 25px;
+    box-shadow:0px 0px 10px rgba(34, 113, 209, 1) ;
+
+    
+
+}
+
+.formContainer::-webkit-scrollbar-track {
+    background: #000009; /* Cor do fundo da barra */
+    border-radius: 10px; /* Bordas arredondadas do fundo */
+}
+
+.formContainer::-webkit-scrollbar-thumb {
+    background: #2271d1; /* Cor do "polegar" da barra */
+    border-radius: 10px; /* Bordas arredondadas do "polegar" */
+}
+
+.formContainer::-webkit-scrollbar-thumb:hover {
+    background: #1857a6; /* Cor do "polegar" ao passar o mouse */
+}
+
+.formContainer::-webkit-scrollbar {
+    width: 8px; /* Largura da barra de rolagem vertical */
+    height: 5px; /* Altura da barra de rolagem horizontal */
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    gap: 1.4rem;
+    width: 100%;
+    height: 100vh;
+    margin: 3px;
+    box-sizing: border-box;
+    background-color: #000000;
+    color: #ffffff;
+    border: 5px solid rgba(34, 113, 209, 1);
+    border-radius: 15px 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+   
+
+}
+
+
+
+label {
+    width: 100%;
+    max-width: 573px;
+    font-family: "Archivo Black", serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+input {
+    width: 100%;
+    height: 50px;
+    border: 3px solid rgba(34, 113, 209, 1);
+    border-radius: 15px 15px;
+    background-color: #000000;
+    color: #ffffff;
+    padding: 5px;
+
+    font-family: "IBM Plex Mono", serif;
+    font-style: normal;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin: 0;
+
+    transition: border-color 0.3s ease;
+
+}
+
+input::placeholder {
+    color: #fff;
+    /* Cor do placeholder */
+    opacity: 0.4;
+    /* Ajuste de opacidade (opcional) */
+}
+
+
+input select:focus {
+    border-color: #2003ff;
+    /* Altere para a cor desejada */
+    box-shadow: 0px 0px 5px 5px rgb(0, 79, 175);
+}
+
+select {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 65px;
+    width: 100%;
+    /* Define largura */
+    max-width: 573px;
+    /* Limita a largura máxima */
+    border: 5px solid rgba(34, 113, 209, 1);
+    border-radius: 15px;
+    background-color: #000000;
+    color: #ffffff;
+    padding: 10px;
+
+    font-family: "IBM Plex Mono", serif;
+    font-size: 25px;
+    box-sizing: border-box;
+    appearance: auto;
+    /* Mantém o comportamento padrão */
+}
+
+
+
+option {
+    background-color: #000000;
+    width: 100%;
+    display: block;
+    border: 3px solid rgba(34, 113, 209, 1);
+    border-radius: 15px 15px;
+    color: #ffffff;
+    padding: 5px;
+    margin-left: -50px;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+
+
+.inputContainer {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 573px;
+    margin: 0;
+    padding: 0;
+}
+
+
+.buttonContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 573px;
+
+    margin: 0;
+    padding: 0;
+}
+
+.btn {
+    width: 100%;
+    max-width: 200px;
+    height: 62px;
+    border: 3px solid rgba(34, 113, 209, 1);
+    border-radius: 15px 15px;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "IBM Plex Mono", serif;
+    font-style: normal;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin: 0;
+    padding: 0;
+    transition: border-color 0.3s ease;
+    cursor: pointer;
+
+}
+
+.btn:active {
+    border-color: #2003ff;
+    /* Altere para a cor desejada */
+    box-shadow: 0px 0px 5px 5px rgb(0, 79, 175);
+    scale: 0.95;
+    color: #0082ce;
+}
+
+.btn:hover {
+    border-color: #2003ff;
+    /* Altere para a cor desejada */
+    box-shadow: 0px 0px 5px 5px rgb(0, 79, 175);
+
+}
+
+
+/*fechar o modal*/
+
+.closeButton {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+}
+
+/**Responsividade */
+
+@media (max-width: 1400px) {
+    .form {
+        width: 100%;
+        height: 700px;
+        padding-bottom: 30px;
+        padding: 10px;
+       
+    }
+
+    label {
+        display: none;
+    }
+
+    input {
+
+        padding: 0 10px;
+    }
+
+    .buttonContainer {
+        padding: 10px;
+        margin-top: -10px;
+    }
+
+
+}
+
+@media (max-width: 450px) {
+
+    .formContainer {
+        overflow-x:hidden;
+    }
+    .form {
+        width: 100%;
+        height: 650px;
+        
+        padding-bottom: 30px;
+       
+    }
+    .formContainer::-webkit-scrollbar {
+        width: 1px; /* Largura da barra de rolagem vertical */
+        height: 50px; /* Altura da barra de rolagem horizontal */
+    }
+   
+
+    h1 {
+        font-size: 25px;
+    }
+
+    label {
+        display: none;
+    }
+
+    input {
+        width: 80%;
+        padding: 0 10px;
+    }
+
+    .btn {
+        width: 45%;
+        font-size: 20px;
+
+    }
+
+    .buttonContainer {
+        justify-content: space-around;
+        padding: 10px;
+        margin-top: -10px;
+    }
+
+
+}
+
+
+
+@media screen and (orientation: landscape) and (max-height: 450px) {
+    .formContainer{
+       position: relative;
+        height: 100%;
+       
+       
+    }
+    .form{
+        width: 100%;
+        height: 100%;
+        padding-top: 40px;
+        padding-bottom: 30px;
+        gap:20px;
+      
+    }  
+    h1{
+       display: none;
+    }
+    input {
+        width: 80%;
+        height: 30px;
+        padding: 0 10px;
+    }
+    select{
+        height: 40px;
+        width: 80%;
+        padding: 0 10px;
+    }
+    .buttonContainer{
+        padding: 0;
+        width: 85%;
+    }
+    .btn{
+        padding: 0;
+        height: 30px;
+        width: 160px;
+        font-size: 15px;
+    }
+}

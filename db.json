@@ -1,0 +1,94 @@
+{
+  "videos": [
+    {
+      "titulo": "jairo",
+      "categoria": "Back End",
+      "img":"./public/assets/imgCards/backend.png",
+      "src": "https://www.youtube.com/embed/fiPfvylj6rk?si=8OLBnCOJfzeTQvzp",
+      "descricao": "testando",
+      "id": "1"
+    },
+    {
+      "categoria": "Front End",
+      "img":"./public/assets/imgCards/frontend.png",
+      "src": "https://www.youtube.com/embed/wXMlMsDvk2M?si=hkjy4IzeOFM8Rx7h",
+      "id": "3"
+    },
+    {
+      "categoria": "Front End",
+      "img":"./public/assets/imgCards/frontend2.png",
+      "src": "https://www.youtube.com/embed/xrRy3RI3HE4?si=PPCYItaED-mOAiw7",
+      "id": "4"
+    },
+    {
+      "categoria": "Back End",
+      "img":"./public/assets/imgCards/backend2.png",
+      "src": "https://www.youtube.com/embed/2z6f8VN_Pro?si=yS8XovruUUne5PT3",
+      "id": "5"
+    },
+    {
+      "categoria": "Back End",
+      "img":"./public/assets/imgCards/backend3.png",
+      "src": "https://www.youtube.com/embed/fmu1LQvZhms?si=a5BrON5_Tp6VV1Xh",
+      "id": "6"
+    },
+    {
+      "titulo": "mobile testes",
+      "categoria": "Mobile",
+      "img":"./public/assets/imgCards/mobile.png",
+      "src": "https://www.youtube.com/embed/2z6f8VN_Pro?si=yS8XovruUUne5PT3",
+      "id": "10"
+    },
+    {
+      "categoria": "Mobile",
+      "img":"./public/assets/imgCards/mobile2.png",
+      "src": "https://www.youtube.com/embed/fiPfvylj6rk?si=8OLBnCOJfzeTQvzp",
+      "id": "12"
+    },
+    {
+      "categoria": "Mobile",
+      "img":"./public/assets/imgCards/mobile3.png",
+      "src": "https://www.youtube.com/embed/fmu1LQvZhms?si=a5BrON5_Tp6VV1Xh",
+      "id": "13"
+    },
+    {
+      "titulo": "jairo",
+      "categoria": "Back End",
+      "img":"./public/assets/imgCards/backend2.png",
+      "src": "https://www.youtube.com/embed/fiPfvylj6rk?si=8OLBnCOJfzeTQvzp",
+      "descricao": "testando",
+      "id": "14"
+    },
+    {
+      "categoria": "Front End",
+      "img":"./public/assets/imgCards/frontend3.png",
+      "src": "https://www.youtube.com/embed/xrRy3RI3HE4?si=PPCYItaED-mOAiw7",
+      "id": "16"
+    },
+    {
+      "categoria": "Back End",
+      "img":"./public/assets/imgCards/backend3.png",
+      "src": "https://www.youtube.com/embed/2z6f8VN_Pro?si=yS8XovruUUne5PT3",
+      "id": "17"
+    },
+    {
+      "categoria": "Back End",
+      "img":"./public/assets/imgCards/backend.png",
+      "src": "https://www.youtube.com/embed/fmu1LQvZhms?si=a5BrON5_Tp6VV1Xh",
+      "id": "18"
+    },
+    {
+      "titulo": "mobile testes",
+      "categoria": "Mobile",
+      "img":"./public/assets/imgCards/mobile.png",
+      "src": "https://www.youtube.com/embed/2z6f8VN_Pro?si=yS8XovruUUne5PT3",
+      "id": "19"
+    },
+    {
+      "categoria": "Mobile",
+      "img":"./public/assets/imgCards/mobile2.png",
+      "src": "https://www.youtube.com/embed/fiPfvylj6rk?si=8OLBnCOJfzeTQvzp",
+      "id": "20"
+    }
+  ]
+}

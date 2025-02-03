@@ -1,0 +1,19 @@
+
+     [
+        {
+            "categoria": "Front End",
+            "id": 1
+        },
+        {
+            "categoria": "Back End",
+            "id": 2
+        },
+        {
+            "categoria": "Mobile",
+            "id": 3
+        },
+        {
+            "categoria": "Inovação e Gestão",
+            "id": 4
+        }
+    ]

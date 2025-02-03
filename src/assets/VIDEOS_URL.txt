@@ -1,0 +1,87 @@
+{
+  "videos": [
+    {
+      "titulo": "jairo",
+      "categoria": "Back End",
+      "img": "https://s3-alpha-sig.figma.com/img/b835/e79f/4405eb8f4b516ca01de1f4df6c096f27?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NVFKhYwVOrfEF~QY~DxNfoN1Nwc6G0~LjuBMhcOD-DSJfh2fam3~2Vb9z9N~438oXEi19rmX0f2rWhGRWoA1PEOw-ncwMGzTMvIQzskG51d1uNvZCf9mQscV93Lb8~wmFO1p3aU7dSWM1i9OR6c42XZKFj7o12u0KUBfxTaWUwdI45saq02Ua0NAXOF8yWCWalR75l24tVrrgiWhVsYaPljWh6tdb1179nhRFkOjVRZ9lWscc3o9bKLrpT9bDeK-MispUn6rSlECA17FCSUdIfLy-5iL1MirqYxhEEWxLvN9J-QR00wp9p1D~n2jxlcDv5GaEbvqo3JCaGvgI5ZF6Q__",
+      "src": "https://www.youtube.com/embed/fiPfvylj6rk?si=8OLBnCOJfzeTQvzp",
+      "descricao": "testando",
+      "id": "1"
+    },
+    {
+      "titulo": "asdafdsadaa",
+      "categoria": "Front End",
+      "img": "https://s3-alpha-sig.figma.com/img/72c1/7da1/d10198eff4bae1c7afbe70603b102473?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=H-CVQX7lwfzfbnJ53wJgHLy3yj9bLSuqVBRxkeyraqGGttz2r6vqJX2kn4ZFKCFFQt3xbrgPCT96UUv1j7zggjHN6VdjptOQ0uZZsf6egiMag5afQkANtQMk9vv0ycLE6Uc-iawASAPTQlbM63GTPYjGDh3EDXe8-3ZqGqkSm2FtVmdu4vUZfZKfOo4v~zlJh7bVukvw7~bhatbVkIQ0KVSzcFNrt1MegWkTyRb5s2Asr4qHQD3Xj8GFS1zEKvovJTK0409yAFfIYhxaVlxDF46Ox-TzAK5ODyxEefeVP0yiB-7yx6smsx1pnk1nKQ8kGhCvbJrQsxhwsXj4ld4Ojw__",
+      "src": "https://s3-alpha-sig.figma.com/img/72c1/7da1/d10198eff4bae1c7afbe70603b102473?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=H-CVQX7lwfzfbnJ53wJgHLy3yj9bLSuqVBRxkeyraqGGttz2r6vqJX2kn4ZFKCFFQt3xbrgPCT96UUv1j7zggjHN6VdjptOQ0uZZsf6egiMag5afQkANtQMk9vv0ycLE6Uc-iawASAPTQlbM63GTPYjGDh3EDXe8-3ZqGqkSm2FtVmdu4vUZfZKfOo4v~zlJh7bVukvw7~bhatbVkIQ0KVSzcFNrt1MegWkTyRb5s2Asr4qHQD3Xj8GFS1zEKvovJTK0409yAFfIYhxaVlxDF46Ox-TzAK5ODyxEefeVP0yiB-7yx6smsx1pnk1nKQ8kGhCvbJrQsxhwsXj4ld4Ojw__",
+      "descricao": "asdfasdfafaa",
+      "id": "2"
+    },
+    {
+      "categoria": "Front End",
+      "img": "https://s3-alpha-sig.figma.com/img/a674/13ce/921a6389c9afc41cb402e5d88f0a4f77?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SGV33cQ5js3WeFtZk0i0r74dvv7j-Nuy7Ws-LLnfIBY4zz3FrGpxbJucqBlOynnDrwOjiH3G4ipAjMbXHf4VO9Y8f5TqD7gp-O3QDaIPvyjEhQYME~jw7Nn4togbQV9nlF1ioR2lGXiosqbLSt7jgEnyoVV0DXhuNBlb~FLZRZZ~kisd~IcB-3IDxntLLtS2Z4cYB0uLntdYPaAWyowByn5qfNmpNVXevXq0ZrrzK~ysnLpFS2QK8GjjpY2w4w2~~~ydCscaSDNouLrqEITBpOMQja32-hL4PeKUHy9jdAUTecqCO4vRDJq5jAiYQNh~-yWOx4K2j5FbpvWTe6atfg__",
+      "src": "https://www.youtube.com/embed/wXMlMsDvk2M?si=hkjy4IzeOFM8Rx7h",
+      "id": "3"
+    },
+    {
+      "categoria": "Front End",
+      "img": "https://s3-alpha-sig.figma.com/img/6c2c/1a0a/6090ee6fcfafcda1093c009e506d7a42?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qhCsV5vt2axnM1Gln9U3ZA8UTV9qu6U~bQGwowDutSIG2~CQqmWghjWVhZhqpgcZeQU9vLaJPdFATjgqIWNxbNa3Ist21IvvZfI74ECwUCga2Oy-rl3C7FaYcFVtvtwm~Ldokg8ASbERSQ4GE~BWk0wGjQfFnVSM3VJ5SUaqNILRi4Gq7ZKYTcOgqCrtNx4lylg9kdZVcnTKEjch~tRc6~~xpIGkLVN~qfx4QkiiRMyWm-dFFHfKroLBZnSmFSkZiXeVgEnzX7UcGbYqNlMsq1ZuyI~44jZYE8TKOltxeX-4Q6vOMpwz39Hcow6kcvvc74MSVf5-ivPEQDuxZ5iW1g__",
+      "src": "https://www.youtube.com/embed/xrRy3RI3HE4?si=PPCYItaED-mOAiw7",
+      "id": "4"
+    },
+    {
+      "categoria": "Back End",
+      "img": "https://s3-alpha-sig.figma.com/img/cbd7/dbda/25110b0f35786393dc14dac9ce1002c4?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=O3l-irjo0wn4BhWM3LeEu5FWuj555-GehG2YDBJtBGEKZuUfawecqNn5Fc4qFjyTxyj9WmLenHhbyXgTvoYlMLvVq0Lu2P9IQLkBG6wXiTR45Gx3F1Xw9IfJo~1RcYhF9pAuFxbgIxY5KmKxQEzILBv96r8nda9tOGaCEEMyoTMo-E5kjqRLkPHMkam8psJ6hLi9ZxbB5WIr5LWCR6ubRJPIgnB0Upf~So~t4R2yZsSLmpvyXabgv3TvWoCE1D9okk6FPxT9nHybHz7tMI9F60f7OxYiO8YsOXID~0v59RTYUAx049PRF6JlkIo1j-NDPVSsEBUp7EAIfuhu6F~fjQ__",
+      "src": "https://www.youtube.com/embed/2z6f8VN_Pro?si=yS8XovruUUne5PT3",
+      "id": "5"
+    },
+    {
+      "categoria": "Back End",
+      "img": "https://s3-alpha-sig.figma.com/img/e268/8232/062bbf4bd15d0d94cd3c07c0162f561c?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fAMWK-CRXreZuYTDsIFdswYAjunQqXjrfvumNrNjgwONtcXuNEylC3igY~qMJW-WpgoauG3mOCusiSQfK8sCCBu6wkVYbrK6IRfmR-dizWOmVkm33tJwMOuEQMTpSspJoMQhATM0m5OfEJ4KVzPkMwCntTdPbY~weJCMF6-rBeIEbiMBicjt3vWO7RMlBjOFU~Z-yuOdCWe-jtJTGVnc5o6TVIkLpyd8JQkI9SMIuoqA3tXH5iox4LtBkU4YFU380a8hxfS0j-RwvaOlqsjv9T9uzRxiQxWhGp38pjXIuM5pwkgq6dmfH~QwncSmeGPKl1op3F~oZZBrLl0R1aU9hw__",
+      "src": "https://www.youtube.com/embed/fmu1LQvZhms?si=a5BrON5_Tp6VV1Xh",
+      "id": "6"
+    },
+    {
+      "titulo": "mobile testes",
+      "categoria": "Mobile",
+      "img": "https://s3-alpha-sig.figma.com/img/ef03/8443/082c1629fd1180cd904cb5779795963e?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=czxv5TqBNcjbeAD~u8WPpP462OFyF5RqXVDC2d9GiXDrzeviiBBuasQgZab-P6jhxVsfOFSsC8wlxuiA9enRwPPAtRJLtP4mOW9ry~bJt48~JBXR62qar6AkIpSQBuNPD~vjQxJTpZma26vwWZqXq6RGqFeorYDsFICeYrSW-NprocuQWt4kkKuqcaQ-zEklnVM0o25cTkgZtYiHQ~6hQb9URiOyHaDkZJdVO8ALCbzg46F2OyMeevkEtCflOzlrw5hoMYWwM-BMbo9CHTs2OulKu~7ginxKXm1JcLAslRSvGnH7lGaCedWdjf7JXsfXU~N8pKPZMlxMLivWrH7Gqw__",
+      "src": "https://www.youtube.com/embed/2z6f8VN_Pro?si=yS8XovruUUne5PT3",
+      "id": "10"
+    },
+    {
+      "categoria": "Mobile",
+      "img": "https://s3-alpha-sig.figma.com/img/f9e5/5ebc/668a8b672f914d14f6d85a0777e4cfef?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VgghKUhEOl1Cuq-OGTOgQlSFeHVKeevyxdTtBUR4SlGVnF32wPWBadOeErk744d-5J6gnDTXISbmh-MbYxDHeL9EVYAJoVKrsWoSK5Fjx4LapqiOad0tVd657Foh5r6KPd1-5~2ExzKBD8dcE0dboGuOwbyKuxkL-6rL95QcTZiFq1nOarRZRQ-3Y0XxdQGsd6wfKTHUENA0l45gj50QmBe2GsymwWzAdMEeeBO~DHdBUXiuK03va2htVNcPLdNqP43heRARE-OtDSNvqLzGiWxTRrneXlXez91O2IOTjuZwXVPEEaK8A4pn0GVmuTNzMBCxCA1EmIl-C~mcvB-p5g__",
+      "src": "https://www.youtube.com/embed/fiPfvylj6rk?si=8OLBnCOJfzeTQvzp",
+      "id": "12"
+    },
+    {
+      "categoria": "Mobile",
+      "img": "https://s3-alpha-sig.figma.com/img/23b5/5e7b/83c6f81a27da40c9288af82662028c17?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=L~e-MrIQXIc20HM26jS47lDyMuEk0GidXND8zj-0p~-xUsz8gkYdzgoOOY2WCl7n8tfWM7HvnrQZWYWSUvnt7f4DCjMvGYMfuQd64qvBCAn8sIemPOzJKMAV9Q11xIkqZaWhWq8W4IxekpnOKNEvrP1j78QMR5dlj9wn9gm5jjM5oz11~ymYpXyIgd3EhiI9H1T7SqPgJYXFBChfNO7BbXzpohO0emef4nbysiwAwKIIToIilgqnnLNpwUdcJqI~byWXBiSrqte5yeAYMXpkwN2zt8alKKfhVrqxUCBBZzSH~FaK3vr~vQZKMt5iVBH98I5OwoQT1Mtomwgkefotaw__",
+      "src": "https://www.youtube.com/embed/fmu1LQvZhms?si=a5BrON5_Tp6VV1Xh",
+      "id": "13"
+    }
+  ]
+}
+
+ https://www.youtube.com/embed/fiPfvylj6rk?si=8OLBnCOJfzeTQvzpja
+
+url imagens
+
+frontend
+https://s3-alpha-sig.figma.com/img/72c1/7da1/d10198eff4bae1c7afbe70603b102473?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=H-CVQX7lwfzfbnJ53wJgHLy3yj9bLSuqVBRxkeyraqGGttz2r6vqJX2kn4ZFKCFFQt3xbrgPCT96UUv1j7zggjHN6VdjptOQ0uZZsf6egiMag5afQkANtQMk9vv0ycLE6Uc-iawASAPTQlbM63GTPYjGDh3EDXe8-3ZqGqkSm2FtVmdu4vUZfZKfOo4v~zlJh7bVukvw7~bhatbVkIQ0KVSzcFNrt1MegWkTyRb5s2Asr4qHQD3Xj8GFS1zEKvovJTK0409yAFfIYhxaVlxDF46Ox-TzAK5ODyxEefeVP0yiB-7yx6smsx1pnk1nKQ8kGhCvbJrQsxhwsXj4ld4Ojw__
+https://s3-alpha-sig.figma.com/img/a674/13ce/921a6389c9afc41cb402e5d88f0a4f77?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SGV33cQ5js3WeFtZk0i0r74dvv7j-Nuy7Ws-LLnfIBY4zz3FrGpxbJucqBlOynnDrwOjiH3G4ipAjMbXHf4VO9Y8f5TqD7gp-O3QDaIPvyjEhQYME~jw7Nn4togbQV9nlF1ioR2lGXiosqbLSt7jgEnyoVV0DXhuNBlb~FLZRZZ~kisd~IcB-3IDxntLLtS2Z4cYB0uLntdYPaAWyowByn5qfNmpNVXevXq0ZrrzK~ysnLpFS2QK8GjjpY2w4w2~~~ydCscaSDNouLrqEITBpOMQja32-hL4PeKUHy9jdAUTecqCO4vRDJq5jAiYQNh~-yWOx4K2j5FbpvWTe6atfg__
+https://s3-alpha-sig.figma.com/img/6c2c/1a0a/6090ee6fcfafcda1093c009e506d7a42?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qhCsV5vt2axnM1Gln9U3ZA8UTV9qu6U~bQGwowDutSIG2~CQqmWghjWVhZhqpgcZeQU9vLaJPdFATjgqIWNxbNa3Ist21IvvZfI74ECwUCga2Oy-rl3C7FaYcFVtvtwm~Ldokg8ASbERSQ4GE~BWk0wGjQfFnVSM3VJ5SUaqNILRi4Gq7ZKYTcOgqCrtNx4lylg9kdZVcnTKEjch~tRc6~~xpIGkLVN~qfx4QkiiRMyWm-dFFHfKroLBZnSmFSkZiXeVgEnzX7UcGbYqNlMsq1ZuyI~44jZYE8TKOltxeX-4Q6vOMpwz39Hcow6kcvvc74MSVf5-ivPEQDuxZ5iW1g__
+
+backend
+
+https://s3-alpha-sig.figma.com/img/b835/e79f/4405eb8f4b516ca01de1f4df6c096f27?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NVFKhYwVOrfEF~QY~DxNfoN1Nwc6G0~LjuBMhcOD-DSJfh2fam3~2Vb9z9N~438oXEi19rmX0f2rWhGRWoA1PEOw-ncwMGzTMvIQzskG51d1uNvZCf9mQscV93Lb8~wmFO1p3aU7dSWM1i9OR6c42XZKFj7o12u0KUBfxTaWUwdI45saq02Ua0NAXOF8yWCWalR75l24tVrrgiWhVsYaPljWh6tdb1179nhRFkOjVRZ9lWscc3o9bKLrpT9bDeK-MispUn6rSlECA17FCSUdIfLy-5iL1MirqYxhEEWxLvN9J-QR00wp9p1D~n2jxlcDv5GaEbvqo3JCaGvgI5ZF6Q__
+https://s3-alpha-sig.figma.com/img/cbd7/dbda/25110b0f35786393dc14dac9ce1002c4?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=O3l-irjo0wn4BhWM3LeEu5FWuj555-GehG2YDBJtBGEKZuUfawecqNn5Fc4qFjyTxyj9WmLenHhbyXgTvoYlMLvVq0Lu2P9IQLkBG6wXiTR45Gx3F1Xw9IfJo~1RcYhF9pAuFxbgIxY5KmKxQEzILBv96r8nda9tOGaCEEMyoTMo-E5kjqRLkPHMkam8psJ6hLi9ZxbB5WIr5LWCR6ubRJPIgnB0Upf~So~t4R2yZsSLmpvyXabgv3TvWoCE1D9okk6FPxT9nHybHz7tMI9F60f7OxYiO8YsOXID~0v59RTYUAx049PRF6JlkIo1j-NDPVSsEBUp7EAIfuhu6F~fjQ__
+https://s3-alpha-sig.figma.com/img/e268/8232/062bbf4bd15d0d94cd3c07c0162f561c?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fAMWK-CRXreZuYTDsIFdswYAjunQqXjrfvumNrNjgwONtcXuNEylC3igY~qMJW-WpgoauG3mOCusiSQfK8sCCBu6wkVYbrK6IRfmR-dizWOmVkm33tJwMOuEQMTpSspJoMQhATM0m5OfEJ4KVzPkMwCntTdPbY~weJCMF6-rBeIEbiMBicjt3vWO7RMlBjOFU~Z-yuOdCWe-jtJTGVnc5o6TVIkLpyd8JQkI9SMIuoqA3tXH5iox4LtBkU4YFU380a8hxfS0j-RwvaOlqsjv9T9uzRxiQxWhGp38pjXIuM5pwkgq6dmfH~QwncSmeGPKl1op3F~oZZBrLl0R1aU9hw__
+
+mobile
+
+https://s3-alpha-sig.figma.com/img/23b5/5e7b/83c6f81a27da40c9288af82662028c17?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=L~e-MrIQXIc20HM26jS47lDyMuEk0GidXND8zj-0p~-xUsz8gkYdzgoOOY2WCl7n8tfWM7HvnrQZWYWSUvnt7f4DCjMvGYMfuQd64qvBCAn8sIemPOzJKMAV9Q11xIkqZaWhWq8W4IxekpnOKNEvrP1j78QMR5dlj9wn9gm5jjM5oz11~ymYpXyIgd3EhiI9H1T7SqPgJYXFBChfNO7BbXzpohO0emef4nbysiwAwKIIToIilgqnnLNpwUdcJqI~byWXBiSrqte5yeAYMXpkwN2zt8alKKfhVrqxUCBBZzSH~FaK3vr~vQZKMt5iVBH98I5OwoQT1Mtomwgkefotaw__
+https://s3-alpha-sig.figma.com/img/ef03/8443/082c1629fd1180cd904cb5779795963e?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=czxv5TqBNcjbeAD~u8WPpP462OFyF5RqXVDC2d9GiXDrzeviiBBuasQgZab-P6jhxVsfOFSsC8wlxuiA9enRwPPAtRJLtP4mOW9ry~bJt48~JBXR62qar6AkIpSQBuNPD~vjQxJTpZma26vwWZqXq6RGqFeorYDsFICeYrSW-NprocuQWt4kkKuqcaQ-zEklnVM0o25cTkgZtYiHQ~6hQb9URiOyHaDkZJdVO8ALCbzg46F2OyMeevkEtCflOzlrw5hoMYWwM-BMbo9CHTs2OulKu~7ginxKXm1JcLAslRSvGnH7lGaCedWdjf7JXsfXU~N8pKPZMlxMLivWrH7Gqw__
+https://s3-alpha-sig.figma.com/img/f9e5/5ebc/668a8b672f914d14f6d85a0777e4cfef?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VgghKUhEOl1Cuq-OGTOgQlSFeHVKeevyxdTtBUR4SlGVnF32wPWBadOeErk744d-5J6gnDTXISbmh-MbYxDHeL9EVYAJoVKrsWoSK5Fjx4LapqiOad0tVd657Foh5r6KPd1-5~2ExzKBD8dcE0dboGuOwbyKuxkL-6rL95QcTZiFq1nOarRZRQ-3Y0XxdQGsd6wfKTHUENA0l45gj50QmBe2GsymwWzAdMEeeBO~DHdBUXiuK03va2htVNcPLdNqP43heRARE-OtDSNvqLzGiWxTRrneXlXez91O2IOTjuZwXVPEEaK8A4pn0GVmuTNzMBCxCA1EmIl-C~mcvB-p5g__
+
+
+

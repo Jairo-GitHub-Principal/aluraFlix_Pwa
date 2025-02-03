@@ -1,0 +1,175 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&family=Anton&family=Archivo+Black&family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Playwrite+AU+VIC+Guides&family=Playwrite+CO+Guides&family=Press+Start+2P&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Sixtyfour:BLED,SCAN@0..100,-24&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+.overlay {
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position:fixed;
+    top:0px;
+    left:0px;
+    box-sizing: border-box;
+    background: rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    padding: 0px;
+    width: 100%;
+    height: 100%;    
+  }
+
+
+.novoVideoContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  top:0px;
+  left:0px;
+  width: 100%;
+  height: 100%;
+  max-height: 2000px;
+  background-color:rgba(0, 0, 0, 0.6);
+  color: #ffffff;
+  box-sizing: border-box;
+  border-radius: 15px 15px;
+  margin: 0;
+  padding: 0;
+  overflow: auto; 
+
+
+}
+
+.novoVideoContainer::-webkit-scrollbar-track {
+  background: #000009; /* Cor do fundo da barra */
+  border-radius: 10px; /* Bordas arredondadas do fundo */
+}
+
+.novoVideoContainer::-webkit-scrollbar-thumb {
+  background: #113867; /* Cor do "polegar" da barra */
+  border-radius: 10px; /* Bordas arredondadas do "polegar" */
+}
+
+.novoVideoContainer::-webkit-scrollbar-thumb:hover {
+  background: #195297; /* Cor do "polegar" ao passar o mouse */
+}
+
+.novoVideoContainer::-webkit-scrollbar {
+  width: 8px; /* Largura da barra de rolagem vertical */
+  height: 5px; /* Altura da barra de rolagem horizontal */
+}
+
+
+.xclose{
+  color: white;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  transition: border-color 0.3s ease;
+  z-index: 1000;
+  border-radius: 50%;
+}
+.novoVideoTitulo {
+   
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position:relative;
+  top: 0px;
+  
+  box-sizing: border-box;
+  width: 100%;
+  background-color:rgba(0, 0, 0, 0.9);
+  padding:5px;
+}
+
+.novoVideoForm {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 80%;   
+  background-color:rgba(0, 0, 0, 0.1);
+    
+   }
+
+@media(max-width:450px){
+  .novoVideoTitulo {
+    position:absolute;
+    top: 3px;
+
+    width: 99%;
+   
+   
+}
+
+.novoVideoForm {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  height: 90%;
+  background-color:rgba(0, 0, 0, 0.1);
+
+ }
+
+ .xclose{
+ 
+  top: 0px;
+  right: 0px;
+ 
+}
+
+  }
+
+  @media screen and (orientation: landscape) and (max-height: 450px) {
+    .modalclose {
+     
+      top: 0px;
+      right: 0px;
+       
+  
+    }
+
+    .xclose{
+ 
+      top: 0px;
+      right: 0px;
+     
+    }
+
+  }
+
+.modalclose {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: transparent;
+    border: none;
+  
+    cursor: pointer;
+    color: white;
+    transition: border-color 0.3s ease;
+    font-size: 20px;
+    z-index: 1000;
+    
+
+    
+
+  }
+  
+  .modalclose:hover {
+   
+    text-shadow: 1px 1px 3px rgb(223, 198, 14);
+    scale: 1.1;
+    
+  }
+  
+  .modalclose:active {
+   scale: 0.9;
+  }
+
+
+
+/*fechar o modal*/
+
+
