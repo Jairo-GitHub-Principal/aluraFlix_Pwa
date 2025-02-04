@@ -11,7 +11,7 @@ Controla como o Vite gera os caminhos dos arquivos no build final.
 Garante que links para scripts, estilos, imagens e outros arquivos sejam gerados corretamente.
 Se estiver errado, o site pode quebrar porque os arquivos não serão encontrados.
    */
-  base: '/aluraFlix_Pwa',
+  base: '/aluraFlix_Pwa/',
   //base:'/',
   plugins: [
     react(),
@@ -40,8 +40,8 @@ Se estiver errado, o site pode quebrar porque os arquivos não serão encontrado
 
            
          */
-        start_url: '/aluraFlix_Pwa', // Página inicial do PWa para teste na hospedagem do  gitHub
-        //start_url: '/', // Página inicial do PWA para ambiente de desenvolvimento
+        //start_url: '/aluraFlix_Pwa/', // Página inicial do PWa para teste na hospedagem do  gitHub
+        start_url: '/', // Página inicial do PWA para ambiente de desenvolvimento
         display: 'standalone', // Modo de exibição (pode ser 'fullscreen', 'standalone', etc.)
         icons: [
           {
