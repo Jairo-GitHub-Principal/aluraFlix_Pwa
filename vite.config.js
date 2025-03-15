@@ -11,8 +11,8 @@ Controla como o Vite gera os caminhos dos arquivos no build final.
 Garante que links para scripts, estilos, imagens e outros arquivos sejam gerados corretamente.
 Se estiver errado, o site pode quebrar porque os arquivos não serão encontrados.
    */
-  base: '/aluraFlix_Pwa/',
-  //base:'/',
+  //base: '/aluraFlix_Pwa/',
+  base:'/',
   plugins: [
     react(),
     VitePWA({
