@@ -6,7 +6,7 @@
    
 
     // pegar videos
-       const getVideos = async (vd, setVd)=> {
+       const getVideos = async (vd, setVd)=>{
         try {
             // Caminho da API - JSON Server - arquivo no GitHub
             const resposta = await fetch("https://my-json-server.typicode.com/Jairo-GitHub-Principal/aluraFlix-api/videos");
